@@ -9,9 +9,11 @@ llm-chatbot-template/
 
 ├── backend/              
 │   └── src/...
+
 |
 ├── frontend/             ← React (Vite|Tailwind)
 |
 │   └── src/...
+
 |
 └── README.md
