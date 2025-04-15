@@ -6,8 +6,8 @@ npm run dev   # 또는 yarn dev
 (Vite 기준: http://localhost:5173)
 
 llm-chatbot-template/
-├── backend/              ← Spring Boot
+├── backend/              
 │   └── src/...
-├── frontend/             ← React (Vite/Tailwind 가능)
+├── frontend/             ← React (Vite|Tailwind)
 │   └── src/...
 └── README.md
