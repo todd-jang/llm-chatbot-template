@@ -13,6 +13,7 @@ llm-chatbot-template/
 |
 ├── frontend/             ← React (Vite|Tailwind)
 |
+
 │   └── src/...
 
 |
