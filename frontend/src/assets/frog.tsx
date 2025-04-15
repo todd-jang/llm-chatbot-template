@@ -1,0 +1,1 @@
+<img src="/assets/frog.png" alt="frog" className="w-6 h-6" />
