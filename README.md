@@ -12,7 +12,6 @@ llm-chatbot-template/
 
 ├── frontend/             ← React (Vite|Tailwind)
 
-│   
-└── src/...
+│   └── src/...
 
 └── README.md
